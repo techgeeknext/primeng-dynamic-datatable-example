@@ -1,0 +1,8 @@
+{
+    "data": [
+        {"flightNumber" : "FS1298", "origin": "LAX", "destination" : "LHR"},
+        {"flightNumber" : "FS1201", "origin": "GFD", "destination" : "KDS"},      
+		{"flightNumber" : "FS1265", "origin": "BSA", "destination" : "BRN"}
+    ]
+}
+
